@@ -7,6 +7,7 @@ Data was taken from the Freddie Mac website: http://www.freddiemac.com/research/
 The data was taken from 1/1/2019 - 3/31/21
 
 Group Members
-Thomas Butler, vra2cf
-Andrej Erkelens, wsw3fa
-Matt Suozzi, mds5dd
+
+Thomas Butler
+Andrej Erkelens
+Matt Suozzi
