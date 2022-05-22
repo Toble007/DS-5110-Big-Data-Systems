@@ -1,17 +1,21 @@
 # DS-5110-Final-Project
 
-Final Project for DS 5110: Big Data Systems for Fall 2021
+## Final Project for DS 5110: Big Data Systems for Fall 2021
 
 Data was taken from the Freddie Mac website: http://www.freddiemac.com/research/datasets/sf_loanlevel_dataset.page
 
 The data was taken from 1/1/2019 - 3/31/21
 
-Group Members
+## Group Members :
 
-Thomas Butler
+- Thomas Butler
 
-Andrej Erkelens
+- Andrej Erkelens
 
-Matt Suozzi
+- Matt Suozzi
 
 Used pyspark and python to write project.
+
+## To run code:
+
+EDA_Final needs to be run to get a parquet file which holds the dataframe. Then any model can be run using this saved dataframe parquet file.
