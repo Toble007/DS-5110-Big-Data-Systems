@@ -9,5 +9,9 @@ The data was taken from 1/1/2019 - 3/31/21
 Group Members
 
 Thomas Butler
+
 Andrej Erkelens
+
 Matt Suozzi
+
+Used pyspark and python to write project.
